@@ -1,19 +1,26 @@
-Features
+## Features
 
-Basic arithmetic operations (ADD, SUBTRACT, MULTIPLY, DIVIDE)
+- Basic arithmetic operations (ADD, SUBTRACT, MULTIPLY, DIVIDE)
 
-Chained calculations
+- Chained calculations
 
-RESTful API
+- RESTful API
 
-Extensible architecture
+- Extensible architecture
 
-Error handling for invalid operations and inputs
+- Error handling for invalid operations and inputs
 
+## Requisites
+- Java
+- Spring 
+- JUnit
 
-Future Improvement:
-add support for more operation like square root, remainder etc
-add support for different data type like long, integer
-utilize logging tools like log4j
+## Future Improvement:
+
+- add support for more operation like square root, remainder etc
+
+- add support for different data type like long, integer
+
+- utilize logging tools like log4j
 
 
