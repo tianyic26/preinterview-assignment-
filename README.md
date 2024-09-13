@@ -24,3 +24,19 @@
 - utilize logging tools like log4j
 
 
+## Example Request
+```json
+{
+    "operator":"add",
+    "num1": 1,
+    "num2": 2
+}
+```
+
+```json
+{
+    "initValue": 5,
+    "operations":["multiply", "add", "divide"],
+    "nums": [3,1,4]
+}
+```
